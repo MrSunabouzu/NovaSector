@@ -9877,6 +9877,7 @@
 /area/station/science/genetics)
 "cGs" = (
 /obj/vehicle/ridden/secway,
+/obj/item/key/security,
 /turf/open/floor/iron/recharge_floor,
 /area/station/ai_monitored/security/armory)
 "cGu" = (
@@ -57543,6 +57544,7 @@
 /obj/effect/turf_decal/trimline/white/line{
 	dir = 8
 	},
+/obj/structure/reagent_dispensers/wall/peppertank/directional/west,
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 8
 	},
