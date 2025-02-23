@@ -37,6 +37,12 @@
 /obj/item/gun/energy/modular_laser_rifle,
 /turf/open/floor/iron/dark,
 /area/space)
+"bR" = (
+/obj/machinery/sleeper/syndie/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/white,
+/area/space)
 "cr" = (
 /obj/machinery/oven/range,
 /turf/open/floor/iron/dark,
@@ -84,6 +90,11 @@
 /obj/item/clothing/shoes/jackboots/sec,
 /obj/item/clothing/shoes/jackboots/sec,
 /turf/open/floor/iron/dark,
+/area/space)
+"eD" = (
+/turf/open/floor/iron/white/side{
+	dir = 4
+	},
 /area/space)
 "eV" = (
 /obj/structure/chair/wood{
@@ -155,6 +166,9 @@
 	},
 /turf/open/floor/wood/tile,
 /area/space)
+"kP" = (
+/turf/open/floor/iron/white/diagonal,
+/area/space)
 "kS" = (
 /turf/open/floor/iron/dark/side{
 	dir = 6
@@ -207,6 +221,11 @@
 "nm" = (
 /obj/structure/table/reinforced/plastitaniumglass,
 /turf/open/floor/iron/dark/small,
+/area/space)
+"no" = (
+/turf/open/floor/iron/white/corner{
+	dir = 1
+	},
 /area/space)
 "nD" = (
 /turf/open/floor/iron/dark/side{
@@ -337,6 +356,12 @@
 /obj/item/storage/briefcase/secure,
 /turf/open/floor/wood/tile,
 /area/space)
+"sR" = (
+/obj/machinery/sleeper/syndie/fullupgrade{
+	dir = 4
+	},
+/turf/open/floor/iron/white/side,
+/area/space)
 "sS" = (
 /obj/structure/rack/gunrack,
 /obj/item/gun/ballistic/automatic/pistol/zashch,
@@ -354,6 +379,11 @@
 /obj/structure/window/reinforced/fulltile,
 /turf/open/floor/grass,
 /area/space)
+"tU" = (
+/turf/open/floor/iron/white/side{
+	dir = 8
+	},
+/area/space)
 "uz" = (
 /obj/structure/table/reinforced,
 /turf/open/floor/iron,
@@ -364,12 +394,32 @@
 	},
 /turf/open/floor/wood/parquet,
 /area/space)
+"uT" = (
+/obj/machinery/stasis{
+	dir = 1
+	},
+/turf/open/floor/iron/white/diagonal,
+/area/space)
+"vc" = (
+/turf/open/floor/iron/white/side{
+	dir = 1
+	},
+/area/space)
 "vv" = (
 /obj/structure/chair/sofa/right/maroon,
 /turf/open/floor/carpet/black,
 /area/space)
+"vN" = (
+/turf/open/floor/iron/white/corner,
+/area/space)
 "vP" = (
 /turf/open/floor/carpet/royalblack,
+/area/space)
+"wx" = (
+/obj/machinery/sleeper/syndie/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/iron/white,
 /area/space)
 "wy" = (
 /obj/item/target/alien,
@@ -387,6 +437,11 @@
 /obj/item/chair,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on,
 /turf/open/floor/iron/dark,
+/area/space)
+"zu" = (
+/turf/open/floor/iron/white/corner{
+	dir = 8
+	},
 /area/space)
 "zG" = (
 /obj/structure/closet/secure_closet/wall,
@@ -620,7 +675,7 @@
 /turf/open/floor/wood/large,
 /area/space)
 "Kl" = (
-/turf/closed/indestructible/reinforced,
+/turf/open/floor/iron/white,
 /area/space)
 "Kr" = (
 /turf/open/floor/iron/dark/side{
@@ -667,6 +722,12 @@
 	dir = 1
 	},
 /area/space)
+"MV" = (
+/obj/machinery/sleeper/syndie/fullupgrade{
+	dir = 8
+	},
+/turf/open/floor/iron/white/side,
+/area/space)
 "Nh" = (
 /obj/structure/chair/sofa/corp/corner{
 	dir = 4
@@ -690,6 +751,11 @@
 "Oc" = (
 /obj/structure/sink/kitchen/directional/north,
 /turf/open/floor/iron/kitchen,
+/area/space)
+"Pl" = (
+/turf/open/floor/iron/white/corner{
+	dir = 4
+	},
 /area/space)
 "Pt" = (
 /obj/structure/chair/office{
@@ -799,6 +865,9 @@
 /obj/structure/hedge,
 /obj/structure/window/reinforced/fulltile,
 /turf/open/misc/grass,
+/area/space)
+"Yg" = (
+/turf/open/floor/iron/white/side,
 /area/space)
 "Ym" = (
 /obj/structure/bed/double,
@@ -27722,14 +27791,14 @@ on
 on
 on
 on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
 on
 on
 on
@@ -27979,14 +28048,14 @@ on
 on
 on
 on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+Kl
+Kl
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -28236,14 +28305,14 @@ on
 on
 on
 on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+Kl
+Kl
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -28493,14 +28562,14 @@ on
 on
 on
 on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+Kl
+Kl
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -28750,14 +28819,14 @@ on
 on
 on
 on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+Kl
+Kl
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -29007,14 +29076,14 @@ nL
 on
 on
 on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+Kl
+Kl
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -29251,7 +29320,7 @@ on
 on
 on
 on
-on
+DQ
 nL
 le
 le
@@ -29261,17 +29330,17 @@ le
 le
 le
 nL
+DQ
 on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+DQ
+nL
+Kl
+Kl
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -29518,18 +29587,18 @@ TJ
 GN
 mY
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+nL
+nL
+nL
+nL
+nL
+tU
+tU
+nL
+nL
+nL
+DQ
 on
 on
 on
@@ -29775,22 +29844,22 @@ TJ
 GN
 le
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+vN
+eD
+eD
+Pl
+vN
+nL
+eD
+eD
+nL
+Pl
+nL
+nL
+nL
+nL
+nL
+nL
 on
 on
 on
@@ -30032,22 +30101,22 @@ TJ
 TJ
 le
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+sR
+bR
+bR
+vc
+Yg
+uT
+kP
+kP
+uT
+vc
+nL
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -30289,22 +30358,22 @@ TJ
 GN
 le
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+Yg
+Kl
+Kl
+vc
+Yg
+kP
+kP
+kP
+kP
+vc
+nL
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -30532,7 +30601,7 @@ on
 on
 on
 on
-on
+DQ
 nL
 TJ
 TJ
@@ -30546,22 +30615,22 @@ TJ
 GN
 mY
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+MV
+wx
+wx
+vc
+Yg
+kP
+kP
+kP
+kP
+vc
+nL
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -30803,22 +30872,22 @@ le
 le
 le
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+zu
+tU
+tU
+no
+Yg
+kP
+kP
+kP
+kP
+vc
+nL
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -31064,18 +31133,18 @@ nL
 nL
 nL
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+Yg
+kP
+kP
+kP
+kP
+vc
+nL
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -31321,18 +31390,18 @@ Df
 Df
 Df
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+zu
+tU
+tU
+tU
+tU
+no
+nL
+Kl
+Kl
+Kl
+Kl
+nL
 on
 on
 on
@@ -31555,10 +31624,10 @@ on
 on
 on
 on
-on
-Kl
-gD
-gD
+nL
+nL
+nL
+nL
 nL
 nL
 nL
@@ -31580,16 +31649,16 @@ Df
 nL
 nL
 nL
+PC
+PC
 nL
 nL
 nL
 nL
 nL
-on
-on
-on
-on
-on
+nL
+nL
+nL
 on
 on
 on
@@ -31812,7 +31881,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -31842,7 +31911,7 @@ dn
 dn
 BW
 nL
-on
+DQ
 on
 on
 on
@@ -32069,7 +32138,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -32326,7 +32395,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -32583,7 +32652,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -32840,7 +32909,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -33097,7 +33166,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -33354,7 +33423,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -33611,7 +33680,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -33868,7 +33937,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -34125,7 +34194,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -34382,7 +34451,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -34639,7 +34708,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -34896,7 +34965,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -35153,7 +35222,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -35410,7 +35479,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -35667,7 +35736,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -35924,7 +35993,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -36181,7 +36250,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -36438,7 +36507,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -36695,7 +36764,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -36952,7 +37021,7 @@ on
 on
 on
 on
-on
+nL
 le
 vP
 vP
@@ -37209,7 +37278,7 @@ on
 on
 on
 on
-on
+nL
 nL
 gD
 gD
@@ -40048,19 +40117,19 @@ nL
 nL
 nL
 nL
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
-on
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
+nL
 on
 on
 on
