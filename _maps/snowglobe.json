@@ -17,6 +17,7 @@
 			"Linkage": null,
 			"Gravity": true,
 			"Ice Ruins Underground": true,
+			"Weather_Snowstorm": false,
 			"Baseturf": "/turf/open/lava/plasma/ice_moon",
 			"No Parallax": true
 			"Up": true
@@ -25,14 +26,15 @@
 			"Linkage": null,
 			"Gravity": true,
 			"Ice Ruins Underground": true,
-			"Weather_Snowstorm": true,
-			"Baseturf": "/turf/open/openspace/icemoon/keep_below",
+			"Weather_Snowstorm": false,
+			"Baseturf": "/turf/open/openspace/icemoon",
 			"No Parallax": true
 			"Down": true
 		},
 		{
 			"Linkage": "Cross",
 			"Gravity": false,
+			"Weather_Snowstorm": false,
 			"No Parallax": false
 		}
 	],
