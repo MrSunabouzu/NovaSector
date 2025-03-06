@@ -16,20 +16,21 @@
 	},
 	"traits": [
 		{
-			"Mining": true,
 			"Linkage": null,
 			"Gravity": true,
 			"Ice Ruins Underground": true,
 			"Baseturf": "/turf/open/lava/plasma/ice_moon",
 			"No Parallax": true
+			"Up": true
 		},
 		{
-			"Mining": true,
 			"Linkage": null,
 			"Gravity": true,
 			"Ice Ruins Underground": true,
+			"Weather_Snowstorm": true,
 			"Baseturf": "/turf/open/openspace/icemoon/keep_below",
 			"No Parallax": true
+			"Down": true
 		},
 		{
 			"Linkage": "Cross",
@@ -37,7 +38,5 @@
 			"No Parallax": false
 		}
 	],
-	"minetype": "lavaland",
-	"blacklist_file": "iceruinblacklist.txt",
-	}
+	"minetype": "lavaland"
 }
