@@ -20,3 +20,7 @@
 /datum/map_template/ghost_cafe_rooms/beach_condo
 	name = "Beach Condo"
 	mappath = "modular_nova/modules/hotel_rooms/beach_condo.dmm"
+
+/datum/map_template/ghost_cafe_rooms/cabin
+	name = "Cabin"
+	mappath = "modular_nova/modules/hotel_rooms/cabin_woods.dmm"
