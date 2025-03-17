@@ -1,86 +1,90 @@
-"aa" = (/obj/structure/flora/bush/ferny/style_2,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"bY" = (/obj/effect/turf_decal/weather/dirt,/obj/effect/spawner/random/decoration/glowstick/on,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"dl" = (/obj/structure/flora/bush/jungle/c,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"eL" = (/obj/machinery/light/warm/dim/directional/east,/obj/structure/chair/sofa/middle/maroon{dir = 8},/turf/open/floor/wood,/area/misc/hilbertshotel)
-"eY" = (/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
-"gf" = (/obj/structure/flora/bush/ferny,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"gA" = (/obj/machinery/light/warm/dim/directional/east,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"gW" = (/obj/effect/turf_decal/weather/dirt{dir = 6},/obj/structure/flora/rock/pile/jungle/style_3,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"iT" = (/turf/open/misc/dirt,/area/misc/hilbertshotel)
-"jJ" = (/obj/structure/dresser,/obj/structure/sign/painting/library{pixel_x = 32; pixel_y = 0},/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"jL" = (/obj/structure/chair/sofa/corner/maroon,/obj/structure/sign/painting/library{pixel_x = 32; pixel_y = 0},/turf/open/floor/wood,/area/misc/hilbertshotel)
-"ke" = (/obj/effect/turf_decal/siding/wood,/obj/structure/closet/crate/freezer,/obj/item/food/meat/rawcutlet,/obj/item/food/meat/rawcutlet,/obj/item/food/meat/rawcutlet,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab/chicken,/obj/item/food/meat/slab/chicken,/obj/item/food/meat/slab/chicken,/turf/open/floor/stone,/area/misc/hilbertshotel)
-"ko" = (/obj/structure/flora/rock/pile/jungle/style_3,/obj/effect/turf_decal/weather/dirt{dir = 5},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"kV" = (/obj/structure/flora/rock/pile/jungle/style_4,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"ll" = (/obj/item/kirbyplants/random,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"lQ" = (/obj/structure/sign/painting/library{pixel_x = -32},/turf/open/floor/wood,/area/misc/hilbertshotel)
-"mO" = (/obj/structure/bed/double/pod,/obj/effect/spawner/random/bedsheet/any/double,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"mW" = (/obj/effect/turf_decal/weather/dirt{dir = 1},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"ny" = (/obj/effect/turf_decal/weather/dirt{dir = 5},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"oe" = (/obj/machinery/shower/directional/south,/obj/structure/drain,/obj/structure/curtain,/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
-"pv" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/bush/jungle/b,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"pK" = (/obj/effect/turf_decal/siding/wood{dir = 6},/turf/open/floor/stone,/area/misc/hilbertshotel)
-"qO" = (/obj/structure/flora/rock/pile/jungle/style_2,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"sk" = (/obj/structure/sign/painting/library{pixel_x = -32},/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"ss" = (/obj/effect/turf_decal/weather/dirt{dir = 6},/obj/effect/turf_decal/weather/dirt{dir = 1},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"uW" = (/obj/effect/turf_decal/weather/dirt{dir = 6},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"wV" = (/obj/structure/fireplace{dir = 4; pixel_y = -15},/obj/effect/turf_decal/siding/wood{dir = 5},/turf/open/floor/stone,/area/misc/hilbertshotel)
-"xt" = (/obj/effect/turf_decal/weather/dirt,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"xA" = (/turf/open/floor/carpet/green,/area/misc/hilbertshotel)
-"xC" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/chair/sofa/bench/right,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"xR" = (/obj/machinery/door/airlock/wood,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"yq" = (/obj/structure/chair/comfy/beige,/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
-"yz" = (/obj/structure/table/wood,/obj/item/storage/box/matches{pixel_x = -2; pixel_y = 4},/turf/open/floor/carpet/green,/area/misc/hilbertshotel)
-"yI" = (/obj/structure/flora/rock/pile/jungle/style_5,/obj/effect/turf_decal/weather/dirt{dir = 4},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"zg" = (/obj/structure/toilet,/obj/machinery/light/small/directional/north,/obj/structure/sign/painting/large/library{dir = 1},/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
-"zi" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/tree/jungle/style_4,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"zK" = (/obj/effect/decal/remains/human,/obj/effect/light_emitter/tendril,/turf/open/misc/dirt,/area/misc/hilbertshotel)
-"Bt" = (/turf/open/floor/wood,/area/misc/hilbertshotel)
-"Cx" = (/obj/structure/flora/tree/jungle/style_4,/obj/effect/turf_decal/weather/dirt{dir = 6},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"DJ" = (/obj/structure/chair/sofa/right/maroon,/obj/machinery/light_switch/directional/north,/turf/open/floor/wood,/area/misc/hilbertshotel)
-"Er" = (/obj/machinery/light/warm/dim/directional/south,/obj/structure/closet/crate/bin,/obj/structure/sign/painting/large/library{pixel_x = 0; pixel_y = -34},/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"FT" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/tree/jungle/style_5,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"FZ" = (/obj/structure/flora/bush/ferny/style_3,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"GN" = (/obj/structure/window/green_glass_pane,/obj/structure/curtain/cloth/fancy,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"Hr" = (/obj/machinery/light_switch/directional/south,/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
-"HF" = (/obj/effect/turf_decal/weather/dirt{dir = 9},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"HS" = (/obj/effect/spawner/liquids_spawner,/turf/open/floor/iron/pool/cobble,/area/misc/hilbertshotel)
-"Id" = (/obj/structure/mirror/directional/south,/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
-"Il" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/chair/sofa/bench/left,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"JU" = (/obj/structure/bookcase/random,/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
-"Kx" = (/turf/closed/indestructible/hoteldoor{icon_state = "door_closed"; icon = 'icons/obj/doors/puzzledoor/default.dmi'},/area/misc/hilbertshotel)
-"Lb" = (/obj/effect/turf_decal/weather/dirt{dir = 4},/turf/open/floor/grass,/area/misc/hilbertshotel)
-"Lq" = (/obj/machinery/grill,/obj/effect/turf_decal/siding/wood{dir = 6},/turf/open/floor/stone,/area/misc/hilbertshotel)
-"Me" = (/obj/structure/chair/sofa/left/maroon{dir = 8},/turf/open/floor/wood,/area/misc/hilbertshotel)
-"NQ" = (/obj/structure/flora/rock/pile/jungle/style_3,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"Om" = (/obj/machinery/light_switch/directional/west,/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
-"Pb" = (/obj/effect/turf_decal/weather/dirt{dir = 9},/obj/structure/flora/rock/pile/jungle,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"Po" = (/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"Ps" = (/obj/effect/turf_decal/siding/wood{dir = 10},/obj/item/stack/sheet/mineral/wood/fifty,/turf/open/floor/stone,/area/misc/hilbertshotel)
-"Pz" = (/obj/item/food/meat/slab/chicken,/turf/closed/indestructible/rock,/area/misc/hilbertshotel)
-"QF" = (/obj/structure/table/wood,/obj/effect/spawner/random/food_or_drink/three_course_meal{pixel_x = 2; pixel_y = 5},/turf/open/floor/carpet/green,/area/misc/hilbertshotel)
-"Sc" = (/turf/closed/indestructible/rock,/area/misc/hilbertshotel)
-"SH" = (/obj/structure/flora/tree/jungle/style_2,/turf/open/floor/grass,/area/misc/hilbertshotel)
-"TX" = (/turf/open/floor/grass,/area/misc/hilbertshotel)
-"Ua" = (/obj/structure/closet/cabinet,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"UN" = (/obj/machinery/door/airlock/wood/glass,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
-"Vj" = (/turf/closed/wall/mineral/wood,/area/misc/hilbertshotel)
-"Yx" = (/obj/structure/flora/tree/jungle/style_6,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"aV" = (/obj/machinery/light_switch/directional/west,/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
+"bg" = (/obj/item/kirbyplants/random,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"cb" = (/obj/effect/turf_decal/weather/dirt{dir = 1},/obj/item/flashlight/lantern/on,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"dj" = (/obj/effect/turf_decal/weather/dirt{dir = 6},/obj/effect/turf_decal/weather/dirt{dir = 1},/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"dF" = (/obj/machinery/door/airlock/wood/glass,/obj/structure/fans/tiny/invisible,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"ey" = (/turf/closed/indestructible/rock,/area/misc/hilbertshotel)
+"fk" = (/obj/structure/table/wood,/obj/item/stack/sheet/mineral/wood/fifty,/obj/item/storage/box/matches{pixel_x = -2; pixel_y = 4},/turf/open/floor/carpet/green,/area/misc/hilbertshotel)
+"fE" = (/obj/effect/turf_decal/siding/wood{dir = 6},/obj/structure/fireplace{dir = 4},/turf/open/floor/stone,/area/misc/hilbertshotel)
+"fY" = (/obj/structure/flora/tree/jungle/style_6,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"go" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/tree/jungle/style_4,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"gt" = (/obj/effect/spawner/liquids_spawner,/turf/open/floor/iron/pool/cobble,/area/misc/hilbertshotel)
+"io" = (/obj/structure/chair/sofa/right/maroon,/obj/machinery/light_switch/directional/north,/turf/open/floor/wood,/area/misc/hilbertshotel)
+"lq" = (/obj/structure/sign/painting/library{pixel_x = -32},/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"mE" = (/obj/structure/flora/rock/pile/jungle/style_4,/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"mR" = (/obj/structure/chair/sofa/corner/maroon,/obj/structure/sign/painting/library{pixel_x = 32; pixel_y = 0},/turf/open/floor/wood,/area/misc/hilbertshotel)
+"qn" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/chair/sofa/bench/right,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"qx" = (/obj/effect/turf_decal/weather/dirt{dir = 1},/turf/open/floor/grass,/area/misc/hilbertshotel)
+"rb" = (/turf/open/misc/dirt,/area/misc/hilbertshotel)
+"rq" = (/obj/machinery/light/warm/dim/directional/south,/obj/structure/sign/painting/large/library{pixel_x = 0; pixel_y = -34},/obj/structure/table/wood,/obj/structure/towel_bin,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"tb" = (/obj/effect/turf_decal/weather/dirt{dir = 5},/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"tp" = (/obj/structure/flora/bush/ferny/style_3,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"tF" = (/obj/structure/mirror/directional/south,/obj/effect/turf_decal/siding/wideplating{dir = 4},/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
+"vg" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/chair/sofa/bench/left,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"wf" = (/obj/effect/turf_decal/siding/wood{dir = 5},/obj/structure/closet/crate/bin{pixel_x = -4; pixel_y = 8},/turf/open/floor/stone,/area/misc/hilbertshotel)
+"wm" = (/obj/structure/flora/rock/pile/jungle/style_3,/obj/effect/turf_decal/weather/dirt{dir = 5},/turf/open/floor/grass,/area/misc/hilbertshotel)
+"xx" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"yo" = (/obj/structure/bed/double/pod,/obj/effect/spawner/random/bedsheet/any/double,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"yt" = (/obj/machinery/grill,/obj/effect/turf_decal/siding/wood{dir = 6},/turf/open/floor/stone,/area/misc/hilbertshotel)
+"yR" = (/obj/effect/turf_decal/weather/dirt,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"zw" = (/obj/structure/table/wood,/obj/effect/spawner/random/food_or_drink/three_course_meal{pixel_x = 2; pixel_y = 5},/turf/open/floor/carpet/green,/area/misc/hilbertshotel)
+"zI" = (/obj/structure/dresser,/obj/structure/sign/painting/library{pixel_x = 32; pixel_y = 0},/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"zQ" = (/obj/effect/turf_decal/weather/dirt{dir = 6},/obj/structure/flora/rock/pile/jungle/style_3,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"zS" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/bush/jungle/b,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Ar" = (/obj/effect/decal/remains/human,/turf/open/misc/dirt,/area/misc/hilbertshotel)
+"As" = (/obj/structure/sign/painting/library{pixel_x = -32},/turf/open/floor/wood,/area/misc/hilbertshotel)
+"Bv" = (/obj/structure/flora/tree/jungle/style_2,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"BQ" = (/obj/structure/flora/rock/pile/jungle/style_5,/obj/effect/turf_decal/weather/dirt{dir = 4},/turf/open/floor/grass,/area/misc/hilbertshotel)
+"BV" = (/obj/machinery/door/airlock/wood,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"Ck" = (/turf/open/floor/wood,/area/misc/hilbertshotel)
+"DG" = (/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
+"Fc" = (/obj/effect/turf_decal/siding/wood,/obj/structure/closet/crate/freezer,/obj/item/food/meat/rawcutlet,/obj/item/food/meat/rawcutlet,/obj/item/food/meat/rawcutlet,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab,/obj/item/food/meat/slab/chicken,/obj/item/food/meat/slab/chicken,/obj/item/food/meat/slab/chicken,/turf/open/floor/stone,/area/misc/hilbertshotel)
+"Fr" = (/obj/machinery/shower/directional/south,/obj/structure/drain,/obj/structure/curtain,/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
+"FI" = (/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Gi" = (/obj/structure/flora/bush/ferny,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"GY" = (/obj/structure/chair/sofa/left/maroon{dir = 8},/turf/open/floor/wood,/area/misc/hilbertshotel)
+"HU" = (/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"Ir" = (/turf/open/floor/carpet/green,/area/misc/hilbertshotel)
+"Kq" = (/obj/structure/flora/bush/jungle/c,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"KO" = (/obj/effect/turf_decal/weather/dirt{dir = 4},/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Mk" = (/obj/structure/closet/cabinet,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"MT" = (/turf/closed/indestructible/hoteldoor{icon_state = "door_closed"; icon = 'icons/obj/doors/puzzledoor/default.dmi'},/area/misc/hilbertshotel)
+"NB" = (/obj/effect/turf_decal/weather/dirt{dir = 9},/obj/structure/flora/rock/pile/jungle,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Pu" = (/obj/structure/flora/bush/ferny/style_2,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"PJ" = (/obj/effect/turf_decal/weather/dirt,/obj/structure/flora/tree/jungle/style_5,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Qz" = (/obj/structure/flora/rock/pile/jungle/style_2,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"QL" = (/turf/open/floor/grass,/area/misc/hilbertshotel)
+"RI" = (/obj/structure/bookcase/random,/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
+"RP" = (/obj/effect/turf_decal/weather/dirt{dir = 6},/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Su" = (/obj/effect/turf_decal/weather/dirt{dir = 9},/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"SH" = (/obj/structure/chair/comfy/beige,/turf/open/floor/carpet/red,/area/misc/hilbertshotel)
+"Te" = (/obj/structure/flora/rock/pile/jungle/style_3,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"TG" = (/obj/effect/turf_decal/siding/wood{dir = 10},/obj/machinery/light/small/dim/directional/north,/turf/open/floor/stone,/area/misc/hilbertshotel)
+"TQ" = (/obj/structure/flora/rock/pile/jungle/style_4,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"TR" = (/obj/structure/flora/tree/jungle/style_4,/obj/effect/turf_decal/weather/dirt{dir = 6},/turf/open/floor/grass,/area/misc/hilbertshotel)
+"UF" = (/obj/structure/toilet,/obj/machinery/light/small/directional/north,/obj/structure/sign/painting/large/library{dir = 1},/obj/effect/turf_decal/siding/wideplating{dir = 4},/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
+"Vq" = (/turf/closed/wall/mineral/wood,/area/misc/hilbertshotel)
+"Xs" = (/obj/machinery/light_switch/directional/south,/turf/open/floor/iron/showroomfloor,/area/misc/hilbertshotel)
+"Xy" = (/obj/machinery/light/warm/dim/directional/east,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"Ym" = (/obj/machinery/light/warm/dim/directional/east,/obj/structure/chair/sofa/middle/maroon{dir = 8},/turf/open/floor/wood,/area/misc/hilbertshotel)
+"Yu" = (/obj/effect/turf_decal/weather/dirt{dir = 1},/obj/structure/flora/bush/fullgrass/style_random,/turf/open/floor/grass,/area/misc/hilbertshotel)
+"Yv" = (/obj/machinery/door/airlock/wood,/obj/structure/fans/tiny/invisible,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
+"ZP" = (/obj/structure/window/green_glass_pane,/obj/structure/curtain/cloth/fancy,/turf/open/floor/wood/tile,/area/misc/hilbertshotel)
 
 (1,1,1) = {"
-ScScScScScScScScScScScScScScScSc
-ScScTXTXTXTXNQNQYxFZkVTXTXgWiTSc
-SckVTXxtpvzibYxCIlxtxtFTuWiTiTSc
-ScdlCxiTiTiTiTiTiTiTiTiTiTiTiTSc
-ScyIiTiTPbmWmWmWmWmWmWssiTiTiTSc
-ScVjxRGNVjgfTXTXTXTXSciTiTiTiTSc
-ScVjskllVjGNVjkVSHTXSciTiTzKiTSc
-ScVjBtBtDJjLVjScqOaaScSciTiTiTSc
-ScVjwVxAQFeLVjVjGNGNVjScSciTiTSc
-ScVjpKxAyzMeVjJUyqjJVjScScScScSc
-ScVjlQBtBtBtxReYeYmOVjVjVjVjVjSc
-ScVjUNVjGNVjVjOmeYgAVjoezgHSVjSc
-SckoiTPskeLqGNUaErPoxRHrIdHSVjSc
-ScLbiTHFmWnyVjVjVjVjVjVjVjVjVjSc
-ScScKxScScScScScScScScScScScScPz
+eyeyeyeyeyeyeyeyeyeyeyeyeyeyeyey
+eyeyQLFIFIQLTeTefYtpmEQLFIzQrbey
+eyTQQLyRzSgoxxqnvgxxxxPJRPrbrbey
+eyKqTRrbrbrbrbrbrbrbrbrbrbrbrbey
+eyBQrbrbNBYucbqxqxqxYudjrbrbrbey
+eyVqYvZPVqGiFIFIQLFIeyrbrbrbrbey
+eyVqlqbgVqZPVqTQBvFIeyrbrbArrbey
+eyVqCkCkiomRVqeyQzPueyeyrbrbrbey
+eyVqwfIrzwYmVqVqZPVqVqeyeyrbrbey
+eyVqfEIrfkGYVqRISHzIVqeyeyeyeyey
+eyVqAsCkCkCkBVDGDGyoVqVqVqVqVqey
+eyVqdFVqZPVqVqaVDGXyVqFrUFgtVqey
+eywmrbTGFcytZPMkrqHUBVXstFgtVqey
+eyKOrbSuYutbVqVqVqVqVqVqVqVqVqey
+eyeyMTeyeyeyeyeyeyeyeyeyeyeyeyey
 "}
