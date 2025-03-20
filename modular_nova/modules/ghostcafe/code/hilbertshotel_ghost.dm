@@ -24,3 +24,11 @@
 /datum/map_template/ghost_cafe_rooms/cabin
 	name = "Cabin"
 	mappath = "modular_nova/modules/hotel_rooms/cabin_woods.dmm"
+
+/datum/map_template/ghost_cafe_rooms/bridge
+	name = "Bridge"
+	mappath = "modular_nova/modules/hotel_rooms/ship_bridge.dmm"
+
+/datum/map_template/ghost_cafe_rooms/library
+	name = "Public Library"
+	mappath = "modular_nova/modules/hotel_rooms/public_library.dmm"

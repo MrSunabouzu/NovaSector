@@ -70,6 +70,13 @@
 	dir = 1
 	},
 /area/misc/hilbertshotel)
+"k" = (
+/obj/structure/chair/comfy{
+	dir = 1;
+	color = "#2c7ada"
+	},
+/turf/open/floor/carpet/blue,
+/area/misc/hilbertshotel)
 "l" = (
 /obj/effect/turf_decal/tile/dark_blue,
 /turf/open/floor/iron/dark/side{
@@ -105,7 +112,7 @@
 /turf/open/floor/iron/dark/side,
 /area/misc/hilbertshotel)
 "q" = (
-/turf/closed/indestructible/opshuttle,
+/turf/closed/wall/r_wall,
 /area/misc/hilbertshotel)
 "r" = (
 /obj/structure/table/reinforced/rglass,
@@ -157,13 +164,17 @@
 	dir = 1
 	},
 /obj/structure/table/reinforced/rglass,
+/obj/item/disk/nuclear/fake{
+	pixel_x = -1;
+	pixel_y = 4
+	},
 /turf/open/floor/iron/dark/side{
 	dir = 4
 	},
 /area/misc/hilbertshotel)
 "z" = (
 /obj/structure/chair/comfy{
-	color = "#596479"
+	color = "#ce381e"
 	},
 /turf/open/floor/carpet/blue,
 /area/misc/hilbertshotel)
@@ -177,6 +188,12 @@
 /turf/open/floor/iron/dark/side{
 	dir = 10
 	},
+/area/misc/hilbertshotel)
+"C" = (
+/obj/structure/chair/comfy{
+	color = "#4aac21"
+	},
+/turf/open/floor/carpet/blue,
 /area/misc/hilbertshotel)
 "D" = (
 /obj/machinery/shuttle_manipulator{
@@ -222,6 +239,13 @@
 	dir = 4
 	},
 /area/misc/hilbertshotel)
+"K" = (
+/obj/structure/chair/comfy{
+	dir = 1;
+	color = "#1cbfcb"
+	},
+/turf/open/floor/carpet/blue,
+/area/misc/hilbertshotel)
 "L" = (
 /obj/machinery/modular_computer/preset/civilian{
 	dir = 1
@@ -241,8 +265,8 @@
 /area/misc/hilbertshotel)
 "N" = (
 /obj/structure/chair/comfy{
-	color = "#596479";
-	dir = 1
+	dir = 1;
+	color = "#2cda61"
 	},
 /turf/open/floor/carpet/blue,
 /area/misc/hilbertshotel)
@@ -287,6 +311,20 @@
 	pixel_y = 27
 	},
 /turf/open/floor/circuit,
+/area/misc/hilbertshotel)
+"R" = (
+/obj/structure/chair/comfy{
+	color = "#e6a515"
+	},
+/turf/open/floor/carpet/blue,
+/area/misc/hilbertshotel)
+"S" = (
+/obj/effect/turf_decal/tile/dark_blue,
+/obj/item/banner/command/mundane,
+/obj/machinery/light_switch/directional/west,
+/turf/open/floor/iron/dark/side{
+	dir = 8
+	},
 /area/misc/hilbertshotel)
 "T" = (
 /obj/effect/turf_decal/tile/dark_blue{
@@ -347,11 +385,11 @@ X
 X
 X
 X
+q
 X
 X
 X
-X
-X
+q
 X
 X
 X
@@ -382,7 +420,7 @@ E
 q
 U
 o
-m
+S
 s
 m
 o
@@ -416,9 +454,9 @@ E
 q
 j
 M
-z
+C
 n
-N
+K
 A
 t
 q
@@ -433,7 +471,7 @@ E
 q
 G
 M
-z
+R
 b
 N
 A
@@ -452,7 +490,7 @@ u
 M
 z
 r
-N
+k
 A
 O
 w
