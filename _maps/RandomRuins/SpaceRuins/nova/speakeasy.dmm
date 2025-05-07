@@ -1,0 +1,1196 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aV" = (
+/turf/closed/wall,
+/area/space)
+"bP" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/turf/open/floor/carpet/green,
+/area/space)
+"bY" = (
+/mob/living/basic/trooper/pirate/melee,
+/turf/open/floor/carpet/red,
+/area/space)
+"ch" = (
+/obj/structure/chair/sofa/corp,
+/turf/open/floor/carpet/green,
+/area/space)
+"cU" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 4
+	},
+/turf/open/floor/carpet/green,
+/area/space)
+"dh" = (
+/turf/open/floor/light/colour_cycle/dancefloor_b,
+/area/space)
+"dr" = (
+/turf/open/floor/iron/checker,
+/area/space)
+"eK" = (
+/turf/open/floor/iron/dark/side{
+	dir = 5
+	},
+/area/space)
+"eN" = (
+/turf/open/floor/wood/large,
+/area/space)
+"gw" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/space)
+"gA" = (
+/obj/machinery/door/airlock/maintenance,
+/turf/open/floor/plating,
+/area/space)
+"hD" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/circuit/red,
+/area/space)
+"kI" = (
+/mob/living/basic/trooper/syndicate/melee/sword/anthro,
+/turf/open/floor/iron/dark/smooth_edge{
+	dir = 1
+	},
+/area/space)
+"lV" = (
+/turf/open/floor/wood/tile,
+/area/space)
+"nW" = (
+/mob/living/basic/trooper/syndicate/ranged/smg/anthro,
+/turf/open/floor/iron/checker,
+/area/space)
+"oQ" = (
+/turf/closed/mineral/random/asteroid,
+/area/ruin/unpowered/no_grav)
+"pB" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"qM" = (
+/turf/open/floor/iron/dark,
+/area/space)
+"ro" = (
+/turf/closed/wall/r_wall,
+/area/space)
+"rr" = (
+/obj/machinery/door/airlock/public/glass,
+/turf/open/floor/iron/dark/side{
+	dir = 10
+	},
+/area/space)
+"rD" = (
+/turf/open/floor/carpet/red,
+/area/space)
+"sa" = (
+/mob/living/basic/trooper/syndicate/melee/anthro,
+/obj/structure/chair/sofa/corp/left{
+	dir = 8
+	},
+/turf/open/floor/carpet/green,
+/area/space)
+"tj" = (
+/obj/structure/chair/sofa/corp{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"uv" = (
+/mob/living/basic/trooper/russian/ranged,
+/turf/open/floor/carpet/red,
+/area/space)
+"uJ" = (
+/mob/living/basic/trooper/russian/ranged,
+/obj/structure/chair/sofa/corp/left{
+	dir = 8
+	},
+/turf/open/floor/carpet/green,
+/area/space)
+"uP" = (
+/turf/open/floor/iron/dark/smooth_edge,
+/area/space)
+"yh" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"zM" = (
+/turf/open/floor/iron/dark/smooth_edge{
+	dir = 4
+	},
+/area/space)
+"AM" = (
+/turf/open/floor/iron/dark/side{
+	dir = 10
+	},
+/area/space)
+"Ba" = (
+/mob/living/basic/trooper/syndicate/ranged/shotgun/space/stormtrooper/anthro/fox,
+/turf/open/floor/iron,
+/area/space)
+"BW" = (
+/obj/machinery/door/airlock/wood,
+/turf/open/floor/wood/tile,
+/area/space)
+"BZ" = (
+/mob/living/basic/trooper/pirate/ranged,
+/turf/open/floor/carpet/red,
+/area/space)
+"Ce" = (
+/turf/open/floor/iron,
+/area/space)
+"Ei" = (
+/obj/structure/chair/sofa/corp/corner,
+/turf/open/floor/carpet/green,
+/area/space)
+"ES" = (
+/turf/open/floor/iron/dark/smooth_large/airless,
+/area/space)
+"FB" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"FP" = (
+/obj/machinery/door/airlock/gold,
+/turf/open/floor/plating,
+/area/space)
+"Gm" = (
+/turf/open/floor/plating,
+/area/space)
+"GL" = (
+/turf/open/floor/iron/dark/smooth_corner,
+/area/space)
+"GO" = (
+/mob/living/basic/trooper/syndicate/melee/space/anthro/lizard,
+/turf/open/floor/iron,
+/area/space)
+"IJ" = (
+/turf/template_noop,
+/area/template_noop)
+"JV" = (
+/obj/machinery/door/airlock/multi_tile/glass,
+/turf/open/floor/iron/dark,
+/area/space)
+"LJ" = (
+/obj/structure/chair/sofa/corp/left,
+/mob/living/basic/trooper/syndicate/ranged/anthro,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"Mf" = (
+/obj/structure/chair/sofa/corp/corner{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"Mu" = (
+/turf/open/floor/iron/dark/smooth_corner{
+	dir = 4
+	},
+/area/space)
+"MO" = (
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/plating,
+/area/space)
+"Ne" = (
+/obj/structure/chair/sofa/corp,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"OL" = (
+/turf/closed/wall/mineral/wood,
+/area/space)
+"OS" = (
+/turf/open/floor/iron/dark/smooth_large,
+/area/space)
+"OW" = (
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/plating,
+/area/space)
+"QV" = (
+/mob/living/basic/trooper/russian,
+/obj/structure/chair/sofa/corp,
+/turf/open/floor/carpet/green,
+/area/space)
+"Rp" = (
+/turf/open/floor/light/colour_cycle/dancefloor_a,
+/area/space)
+"SW" = (
+/obj/structure/falsewall,
+/turf/open/floor/plating,
+/area/space)
+"SY" = (
+/mob/living/basic/trooper/pirate,
+/obj/structure/chair/sofa/corp/corner{
+	dir = 4
+	},
+/turf/open/floor/carpet/green,
+/area/space)
+"UX" = (
+/obj/structure/table/wood,
+/turf/open/floor/carpet/green,
+/area/space)
+"Vc" = (
+/turf/open/floor/iron/dark/smooth_corner{
+	dir = 1
+	},
+/area/space)
+"Ve" = (
+/turf/open/floor/wood,
+/area/space)
+"Vo" = (
+/turf/open/floor/iron/dark/smooth_edge{
+	dir = 8
+	},
+/area/space)
+"Xe" = (
+/turf/open/floor/grass/airless,
+/area/space)
+"Xo" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"XI" = (
+/turf/open/floor/iron/dark/smooth_edge{
+	dir = 1
+	},
+/area/space)
+"Yw" = (
+/turf/open/floor/iron/dark/smooth_corner{
+	dir = 8
+	},
+/area/space)
+"YK" = (
+/obj/structure/table/wood/poker,
+/turf/open/floor/carpet/red,
+/area/space)
+"YR" = (
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+
+(1,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+ES
+ES
+ES
+ES
+ES
+IJ
+ES
+ES
+ES
+ES
+ES
+IJ
+IJ
+IJ
+IJ
+IJ
+"}
+(2,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+ES
+Xe
+Xe
+Xe
+ES
+IJ
+ES
+Xe
+Xe
+Xe
+ES
+IJ
+IJ
+IJ
+IJ
+IJ
+"}
+(3,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+ES
+ES
+ES
+ES
+ES
+ES
+ro
+ro
+gw
+gw
+gw
+ro
+ro
+ro
+gw
+gw
+gw
+ro
+ro
+ro
+IJ
+IJ
+IJ
+"}
+(4,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+IJ
+IJ
+IJ
+ES
+Xe
+Xe
+Xe
+Xe
+ES
+ro
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+ro
+IJ
+IJ
+IJ
+"}
+(5,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+IJ
+ES
+Xe
+Xe
+Xe
+Xe
+ES
+ro
+eK
+eK
+eK
+eK
+eK
+eK
+eK
+eK
+eK
+eK
+eK
+dr
+ro
+IJ
+IJ
+IJ
+"}
+(6,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+oQ
+oQ
+oQ
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+gw
+gw
+gw
+ro
+ro
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+eK
+dr
+gw
+ES
+ES
+ES
+"}
+(7,1,1) = {"
+IJ
+IJ
+oQ
+oQ
+oQ
+oQ
+oQ
+ro
+pB
+FB
+hD
+yh
+Mf
+aV
+Gm
+Gm
+aV
+lV
+lV
+lV
+lV
+BW
+eN
+eN
+eN
+eN
+eN
+eN
+YK
+YK
+rD
+lV
+eK
+dr
+gw
+Xe
+Xe
+ES
+"}
+(8,1,1) = {"
+IJ
+IJ
+oQ
+oQ
+oQ
+oQ
+oQ
+ro
+Ne
+Rp
+dh
+Rp
+tj
+aV
+Gm
+Gm
+aV
+lV
+cU
+bP
+lV
+OL
+eN
+eN
+eN
+eN
+eN
+eN
+rD
+YK
+rD
+lV
+eK
+dr
+gw
+Xe
+Xe
+ES
+"}
+(9,1,1) = {"
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+oQ
+ro
+LJ
+dh
+Rp
+dh
+Xo
+aV
+Gm
+Gm
+aV
+lV
+QV
+UX
+lV
+OL
+rD
+rD
+rD
+rD
+eN
+eN
+YK
+YK
+rD
+lV
+eK
+dr
+ro
+gw
+gw
+gw
+"}
+(10,1,1) = {"
+oQ
+oQ
+oQ
+ro
+ro
+ro
+ro
+ro
+hD
+Rp
+dh
+Rp
+hD
+aV
+Gm
+Gm
+SW
+lV
+ch
+UX
+lV
+OL
+rD
+YK
+YK
+rD
+eN
+eN
+rD
+rD
+rD
+lV
+eK
+dr
+rr
+Ve
+Ve
+ro
+"}
+(11,1,1) = {"
+oQ
+oQ
+oQ
+ro
+dr
+dr
+dr
+aV
+OS
+OS
+OS
+OS
+OS
+aV
+Gm
+Gm
+aV
+lV
+Ei
+uJ
+lV
+OL
+rD
+BZ
+YK
+rD
+eN
+eN
+eN
+eN
+eN
+lV
+eK
+dr
+ro
+Ve
+Ve
+JV
+"}
+(12,1,1) = {"
+oQ
+oQ
+oQ
+ro
+dr
+dr
+dr
+MO
+GL
+Vo
+Vo
+Vo
+Mu
+FP
+Gm
+Gm
+aV
+lV
+lV
+lV
+lV
+OL
+rD
+rD
+YK
+uv
+eN
+eN
+eN
+eN
+eN
+lV
+eK
+dr
+ro
+Ve
+Ve
+qM
+"}
+(13,1,1) = {"
+oQ
+oQ
+oQ
+ro
+dr
+dr
+dr
+MO
+kI
+YR
+YR
+YR
+uP
+aV
+Gm
+Gm
+aV
+OL
+OL
+OL
+OL
+OL
+rD
+YK
+YK
+rD
+eN
+eN
+rD
+rD
+rD
+lV
+eK
+dr
+rr
+Ve
+Ve
+ro
+"}
+(14,1,1) = {"
+IJ
+oQ
+oQ
+ro
+dr
+dr
+nW
+MO
+XI
+YR
+YR
+YR
+uP
+aV
+Gm
+Gm
+aV
+lV
+lV
+lV
+lV
+OL
+rD
+rD
+rD
+rD
+eN
+eN
+YK
+YK
+rD
+lV
+eK
+dr
+ro
+gw
+gw
+gw
+"}
+(15,1,1) = {"
+IJ
+oQ
+oQ
+ro
+dr
+dr
+dr
+aV
+Yw
+zM
+zM
+zM
+Vc
+aV
+Gm
+Gm
+aV
+lV
+SY
+bP
+lV
+OL
+eN
+eN
+eN
+eN
+eN
+eN
+rD
+YK
+bY
+lV
+eK
+dr
+gw
+Xe
+Xe
+ES
+"}
+(16,1,1) = {"
+IJ
+oQ
+oQ
+ro
+ro
+aV
+OW
+aV
+aV
+aV
+aV
+FP
+aV
+aV
+Gm
+Gm
+SW
+lV
+ch
+UX
+lV
+BW
+eN
+eN
+eN
+eN
+eN
+eN
+YK
+YK
+rD
+lV
+eK
+dr
+gw
+Xe
+Xe
+ES
+"}
+(17,1,1) = {"
+IJ
+oQ
+oQ
+oQ
+ro
+Ce
+Ce
+Ce
+Ce
+aV
+Gm
+Gm
+Gm
+Gm
+Gm
+Gm
+aV
+lV
+Ei
+sa
+lV
+OL
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+lV
+eK
+dr
+gw
+ES
+ES
+ES
+"}
+(18,1,1) = {"
+IJ
+IJ
+oQ
+oQ
+ro
+Ce
+Ce
+Ce
+Ce
+OW
+Gm
+Gm
+Gm
+Gm
+Gm
+Gm
+aV
+lV
+lV
+lV
+lV
+OL
+AM
+AM
+AM
+AM
+AM
+AM
+AM
+AM
+AM
+AM
+dr
+dr
+ro
+IJ
+IJ
+IJ
+"}
+(19,1,1) = {"
+IJ
+IJ
+oQ
+oQ
+ro
+Ce
+Ce
+Ce
+Ce
+aV
+aV
+aV
+aV
+gA
+aV
+ro
+ro
+gw
+gw
+gw
+ro
+OL
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+ro
+IJ
+IJ
+IJ
+"}
+(20,1,1) = {"
+IJ
+IJ
+IJ
+oQ
+ro
+GO
+Ce
+Ce
+Ce
+aV
+Ce
+Ce
+Ce
+Ce
+Ce
+ro
+Xe
+Xe
+Xe
+ES
+ro
+ro
+ro
+gw
+gw
+gw
+ro
+ro
+ro
+gw
+gw
+gw
+ro
+ro
+ro
+IJ
+IJ
+IJ
+"}
+(21,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+ro
+Ce
+Ce
+Ce
+Ce
+aV
+Ce
+Ce
+Ce
+Ce
+Ce
+ro
+Xe
+Xe
+Xe
+ES
+IJ
+IJ
+ES
+Xe
+Xe
+Xe
+ES
+IJ
+ES
+Xe
+Xe
+Xe
+ES
+IJ
+IJ
+IJ
+IJ
+IJ
+"}
+(22,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+ro
+Ce
+Ce
+Ba
+Ce
+aV
+Ce
+Ce
+Ce
+Ce
+Ce
+ro
+Xe
+Xe
+Xe
+ES
+IJ
+IJ
+ES
+ES
+ES
+ES
+ES
+IJ
+ES
+ES
+ES
+ES
+ES
+IJ
+IJ
+IJ
+IJ
+IJ
+"}
+(23,1,1) = {"
+IJ
+IJ
+IJ
+IJ
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ro
+ES
+ES
+ES
+ES
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+IJ
+"}

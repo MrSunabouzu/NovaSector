@@ -38,6 +38,15 @@
 /area/ruin/space/has_grav/waypoint
 	name = "Abandoned Station"
 
+/area/ruin/space/has_grav/tornvault
+	name = "Torn Vault"
+	
+/area/ruin/space/has_grav/powered/speakeasy
+	name = "Speakeasy"
+	
+/area/ruin/space/has_grav/powered/shuttle_dealership
+	name = "Shuttle Dealership"
+
 /area/ruin/space/has_grav/powered/toy_store
 	name = "Toy Store"
 
