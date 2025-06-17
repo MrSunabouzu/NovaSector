@@ -16,9 +16,8 @@
 /turf/open/floor/carpet/green,
 /area/ruin/space/has_grav/powered/speakeasy)
 "bY" = (
-/mob/living/basic/trooper/pirate/melee,
-/obj/structure/chair/stool/directional/north,
-/turf/open/floor/carpet/red,
+/obj/structure/marker_beacon/burgundy,
+/turf/open/floor/iron/dark/smooth_large/airless,
 /area/ruin/space/has_grav/powered/speakeasy)
 "ch" = (
 /obj/structure/chair/sofa/corp,
@@ -60,6 +59,10 @@
 	},
 /area/ruin/space/has_grav/powered/speakeasy)
 "eN" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
 /turf/open/floor/wood/large,
 /area/ruin/space/has_grav/powered/speakeasy)
 "fs" = (
@@ -77,9 +80,27 @@
 "gZ" = (
 /turf/open/floor/iron/checker,
 /area/ruin/space/has_grav/powered/speakeasy)
+"hw" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/ruin/space/has_grav/powered/speakeasy)
 "hD" = (
 /obj/structure/table/reinforced/plastitaniumglass,
 /turf/open/floor/circuit/red,
+/area/ruin/space/has_grav/powered/speakeasy)
+"jn" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
 /area/ruin/space/has_grav/powered/speakeasy)
 "jL" = (
 /turf/open/floor/grass/airless,
@@ -99,6 +120,11 @@
 "lV" = (
 /turf/open/floor/wood/parquet,
 /area/ruin/space/has_grav/powered/speakeasy)
+"mb" = (
+/obj/structure/chair/sofa/corp,
+/mob/living/basic/looter/crusher,
+/turf/open/floor/carpet/green,
+/area/ruin/space/has_grav/powered/speakeasy)
 "mq" = (
 /obj/machinery/computer/slot_machine,
 /obj/machinery/light/red/dim/directional/west,
@@ -112,10 +138,10 @@
 /area/ruin/space/has_grav/powered/speakeasy)
 "op" = (
 /obj/machinery/light/red/dim/directional/west,
-/turf/open/floor/iron,
+/turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/speakeasy)
 "oD" = (
-/obj/machinery/light/red/dim/directional/south,
+/obj/machinery/light/directional/south,
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/speakeasy)
 "oQ" = (
@@ -130,6 +156,12 @@
 "qM" = (
 /turf/open/floor/iron/dark,
 /area/ruin/space/has_grav/powered/speakeasy)
+"ra" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/ruin/space/has_grav/powered/speakeasy)
 "ro" = (
 /turf/closed/wall/r_wall,
 /area/ruin/space/has_grav/powered/speakeasy)
@@ -142,11 +174,15 @@
 /turf/open/floor/carpet/red,
 /area/ruin/space/has_grav/powered/speakeasy)
 "sa" = (
-/mob/living/basic/trooper/syndicate/melee/anthro,
-/obj/structure/chair/sofa/corp/left{
-	dir = 8
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
 	},
-/turf/open/floor/carpet/green,
+/turf/open/floor/wood/large,
+/area/ruin/space/has_grav/powered/speakeasy)
+"so" = (
+/obj/structure/chair/stool/directional/north,
+/mob/living/basic/looter/crusher,
+/turf/open/floor/carpet/red,
 /area/ruin/space/has_grav/powered/speakeasy)
 "sN" = (
 /obj/machinery/light/small/directional/east,
@@ -159,12 +195,10 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/has_grav/powered/speakeasy)
 "uv" = (
-/mob/living/basic/trooper/russian/ranged,
-/obj/structure/chair/stool/directional/north,
-/turf/open/floor/carpet/red,
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/iron/checker,
 /area/ruin/space/has_grav/powered/speakeasy)
 "uJ" = (
-/mob/living/basic/trooper/russian/ranged,
 /obj/structure/chair/sofa/corp/left{
 	dir = 8
 	},
@@ -184,6 +218,10 @@
 /turf/open/floor/iron/dark/side{
 	dir = 5
 	},
+/area/ruin/space/has_grav/powered/speakeasy)
+"xm" = (
+/obj/structure/closet,
+/turf/open/floor/iron,
 /area/ruin/space/has_grav/powered/speakeasy)
 "xI" = (
 /obj/machinery/light/small/directional/west,
@@ -209,6 +247,10 @@
 /obj/structure/chair/stool/directional/west,
 /turf/open/floor/carpet/red,
 /area/ruin/space/has_grav/powered/speakeasy)
+"yZ" = (
+/mob/living/basic/looter/ranged,
+/turf/open/floor/carpet/red,
+/area/ruin/space/has_grav/powered/speakeasy)
 "zr" = (
 /obj/machinery/light/red/dim/directional/east,
 /turf/open/floor/iron/dark/side{
@@ -227,9 +269,8 @@
 	},
 /area/ruin/space/has_grav/powered/speakeasy)
 "Ba" = (
-/mob/living/basic/trooper/syndicate/ranged/shotgun/space/stormtrooper/anthro/fox,
 /obj/machinery/light/red/dim/directional/east,
-/turf/open/floor/iron,
+/turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/speakeasy)
 "BT" = (
 /obj/structure/chair/sofa/corp/corner{
@@ -242,8 +283,8 @@
 /turf/open/floor/wood/tile,
 /area/ruin/space/has_grav/powered/speakeasy)
 "BZ" = (
-/mob/living/basic/trooper/pirate/ranged,
-/turf/open/floor/carpet/red,
+/obj/machinery/light/red/dim/directional/south,
+/turf/open/floor/iron/dark/smooth_edge,
 /area/ruin/space/has_grav/powered/speakeasy)
 "Ce" = (
 /turf/open/floor/iron,
@@ -263,6 +304,14 @@
 	dir = 10
 	},
 /area/ruin/space/has_grav/powered/speakeasy)
+"DD" = (
+/obj/machinery/shower/directional/east,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/powered/speakeasy)
+"DF" = (
+/obj/structure/table/glass,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/powered/speakeasy)
 "DI" = (
 /obj/structure/table/wood,
 /turf/open/floor/carpet/green,
@@ -273,6 +322,13 @@
 /area/ruin/space/has_grav/powered/speakeasy)
 "ES" = (
 /turf/open/floor/iron/dark/smooth_large/airless,
+/area/ruin/space/has_grav/powered/speakeasy)
+"Fg" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
 /area/ruin/space/has_grav/powered/speakeasy)
 "FB" = (
 /obj/structure/chair/sofa/corp/right{
@@ -295,14 +351,22 @@
 /turf/open/floor/iron/dark/smooth_corner,
 /area/ruin/space/has_grav/powered/speakeasy)
 "GO" = (
+/obj/structure/chair/sofa/corp/left{
+	dir = 4
+	},
 /mob/living/basic/trooper/syndicate/melee/space/anthro/lizard,
+/turf/open/floor/carpet/green,
+/area/ruin/space/has_grav/powered/speakeasy)
+"GX" = (
+/obj/structure/table/glass,
+/obj/item/storage/medkit/regular,
 /turf/open/floor/iron,
 /area/ruin/space/has_grav/powered/speakeasy)
 "Hv" = (
-/obj/machinery/light/red/dim/directional/south,
-/turf/open/floor/iron/dark/side{
-	dir = 10
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
 	},
+/turf/open/floor/wood/large,
 /area/ruin/space/has_grav/powered/speakeasy)
 "IJ" = (
 /turf/template_noop,
@@ -311,6 +375,11 @@
 /obj/structure/chair/sofa/corp/right,
 /obj/machinery/light/red/dim/directional/north,
 /turf/open/floor/carpet/red,
+/area/ruin/space/has_grav/powered/speakeasy)
+"JF" = (
+/obj/structure/safe,
+/obj/item/stack/spacecash/c5000,
+/turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/speakeasy)
 "JV" = (
 /obj/machinery/door/airlock/multi_tile/glass,
@@ -344,6 +413,12 @@
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/has_grav/powered/speakeasy)
+"Mq" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/wood/large,
+/area/ruin/space/has_grav/powered/speakeasy)
 "Mu" = (
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 4
@@ -361,6 +436,11 @@
 /obj/structure/chair/sofa/corp,
 /turf/open/floor/mineral/plastitanium/red,
 /area/ruin/space/has_grav/powered/speakeasy)
+"Oz" = (
+/obj/structure/chair/stool/directional/north,
+/mob/living/basic/looter,
+/turf/open/floor/carpet/red,
+/area/ruin/space/has_grav/powered/speakeasy)
 "OB" = (
 /obj/machinery/light/red/dim/directional/east,
 /turf/open/floor/iron,
@@ -370,6 +450,7 @@
 /area/ruin/space/has_grav/powered/speakeasy)
 "OO" = (
 /obj/machinery/light/red/dim/directional/north,
+/obj/structure/table/reinforced/plastitaniumglass,
 /turf/open/floor/iron/checker,
 /area/ruin/space/has_grav/powered/speakeasy)
 "OS" = (
@@ -377,7 +458,14 @@
 /area/ruin/space/has_grav/powered/speakeasy)
 "OW" = (
 /obj/machinery/door/airlock/grunge,
-/turf/open/floor/plating,
+/turf/open/floor/wood/tile,
+/area/ruin/space/has_grav/powered/speakeasy)
+"Pv" = (
+/obj/structure/chair/sofa/corp/right{
+	dir = 8
+	},
+/mob/living/basic/trooper/syndicate/ranged/shotgun/space/stormtrooper/anthro/fox,
+/turf/open/floor/carpet/green,
 /area/ruin/space/has_grav/powered/speakeasy)
 "PQ" = (
 /obj/machinery/light/red/dim/directional/north,
@@ -389,9 +477,13 @@
 /turf/open/floor/carpet/red,
 /area/ruin/space/has_grav/powered/speakeasy)
 "QV" = (
-/mob/living/basic/trooper/russian,
-/obj/structure/chair/sofa/corp,
-/turf/open/floor/carpet/green,
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
 /area/ruin/space/has_grav/powered/speakeasy)
 "Rp" = (
 /turf/open/floor/light/colour_cycle/dancefloor_a,
@@ -410,11 +502,19 @@
 /turf/open/floor/plating,
 /area/ruin/space/has_grav/powered/speakeasy)
 "SY" = (
-/mob/living/basic/trooper/pirate,
-/obj/structure/chair/sofa/corp/corner{
+/obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
-/turf/open/floor/carpet/green,
+/turf/open/floor/wood/large,
+/area/ruin/space/has_grav/powered/speakeasy)
+"TW" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
 /area/ruin/space/has_grav/powered/speakeasy)
 "Uc" = (
 /turf/open/floor/carpet/red,
@@ -422,6 +522,15 @@
 "Ug" = (
 /obj/machinery/light/small/directional/east,
 /turf/open/floor/wood/tile,
+/area/ruin/space/has_grav/powered/speakeasy)
+"Ur" = (
+/obj/structure/table/optable,
+/turf/open/floor/iron,
+/area/ruin/space/has_grav/powered/speakeasy)
+"UO" = (
+/obj/structure/chair/sofa/corp/corner,
+/mob/living/basic/trooper/syndicate/melee/space/anthro/lizard,
+/turf/open/floor/carpet/green,
 /area/ruin/space/has_grav/powered/speakeasy)
 "UX" = (
 /obj/machinery/roulette,
@@ -433,6 +542,10 @@
 	},
 /area/ruin/space/has_grav/powered/speakeasy)
 "Ve" = (
+/turf/open/floor/wood,
+/area/ruin/space/has_grav/powered/speakeasy)
+"Vh" = (
+/obj/machinery/light/red/dim/directional/north,
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/speakeasy)
 "Vo" = (
@@ -505,17 +618,17 @@ IJ
 IJ
 IJ
 IJ
+bY
 ES
 ES
 ES
-ES
-ES
+bY
 IJ
+bY
 ES
 ES
 ES
-ES
-ES
+bY
 IJ
 IJ
 IJ
@@ -578,7 +691,7 @@ IJ
 IJ
 IJ
 IJ
-ES
+bY
 ES
 ES
 ES
@@ -720,7 +833,7 @@ AM
 gw
 ES
 ES
-ES
+bY
 "}
 (7,1,1) = {"
 IJ
@@ -745,15 +858,15 @@ KN
 KN
 KN
 BW
-eN
-eN
-eN
-eN
-eN
-eN
+Hv
+QV
+QV
+QV
+QV
+TW
 YK
 YK
-dT
+so
 lV
 eK
 AM
@@ -821,7 +934,7 @@ Ce
 Gm
 aV
 Kl
-QV
+ch
 DI
 KN
 OL
@@ -868,7 +981,7 @@ OL
 lV
 YK
 YK
-dT
+Oz
 lV
 eN
 Uc
@@ -901,22 +1014,22 @@ Gm
 Ce
 aV
 KN
-Ei
+UO
 uJ
 KN
 OL
 lV
-BZ
+Uc
 YK
 dT
 lV
-eN
-eN
-eN
-eN
+jn
+ra
+ra
+sa
 lV
 eK
-Hv
+AM
 ro
 Ve
 Ve
@@ -927,7 +1040,7 @@ oQ
 oQ
 oQ
 ro
-gZ
+uv
 gZ
 gZ
 MO
@@ -946,14 +1059,14 @@ Ug
 KN
 OL
 lV
-Uc
+yZ
 YK
-uv
+dT
 lV
-eN
-eN
-eN
-eN
+Fg
+SY
+SY
+Mq
 lV
 eK
 AM
@@ -969,7 +1082,7 @@ oQ
 ro
 OO
 gZ
-gZ
+nW
 MO
 kI
 YR
@@ -1007,15 +1120,15 @@ IJ
 oQ
 oQ
 ro
+uv
 gZ
 gZ
-nW
 MO
 XI
 YR
 YR
 YR
-uP
+BZ
 aV
 fs
 Ce
@@ -1061,7 +1174,7 @@ Gm
 Gm
 aV
 dw
-SY
+cU
 bP
 KN
 OL
@@ -1073,7 +1186,7 @@ lV
 eN
 Uc
 YK
-bY
+dT
 lV
 eK
 AM
@@ -1101,16 +1214,16 @@ Ce
 Gm
 SW
 KN
-ch
+mb
 UX
 KN
 BW
-eN
-eN
-eN
-eN
-eN
-eN
+Hv
+QV
+QV
+QV
+QV
+hw
 YK
 YK
 dT
@@ -1128,10 +1241,10 @@ oQ
 oQ
 oQ
 ro
-Ce
-Ce
+Ve
+Ve
 op
-Ce
+Ve
 aV
 Ce
 Gm
@@ -1142,7 +1255,7 @@ Gm
 aV
 dw
 Ei
-sa
+uJ
 MI
 OL
 lV
@@ -1160,7 +1273,7 @@ AM
 gw
 ES
 ES
-ES
+bY
 "}
 (18,1,1) = {"
 IJ
@@ -1168,10 +1281,10 @@ IJ
 oQ
 oQ
 ro
-Ce
-Ce
-Ce
-Ce
+Ve
+GO
+bP
+Ve
 OW
 Gm
 sN
@@ -1208,10 +1321,10 @@ IJ
 oQ
 oQ
 ro
-Zp
-Ce
-Ce
-Ce
+Vh
+DI
+DI
+Ve
 aV
 aV
 aV
@@ -1248,14 +1361,14 @@ IJ
 IJ
 oQ
 ro
-GO
-Ce
-Ce
-Ce
+Ve
+Pv
+uJ
+Ve
 aV
-Ce
-Ce
-Ce
+GX
+DF
+DD
 Ce
 Ce
 ro
@@ -1288,10 +1401,10 @@ IJ
 IJ
 IJ
 ro
-Ce
-Ce
-Ce
-Ce
+Ve
+Ve
+Ve
+Ve
 aV
 Zp
 Ce
@@ -1328,16 +1441,16 @@ IJ
 IJ
 IJ
 ro
-Ce
-Ce
+JF
+Ve
 Ba
-Ce
+Ve
 aV
-Ce
+Ur
 Ce
 OB
-Ce
-Ce
+xm
+xm
 ro
 jL
 jL
@@ -1345,17 +1458,17 @@ jL
 ES
 IJ
 IJ
+bY
 ES
 ES
 ES
-ES
-ES
+bY
 IJ
+bY
 ES
 ES
 ES
-ES
-ES
+bY
 IJ
 IJ
 IJ
@@ -1382,7 +1495,7 @@ ro
 ES
 ES
 ES
-ES
+bY
 IJ
 IJ
 IJ

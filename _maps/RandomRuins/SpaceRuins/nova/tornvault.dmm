@@ -76,6 +76,8 @@
 "t" = (
 /obj/structure/cable,
 /obj/machinery/power/apc/auto_name/directional/west,
+/obj/effect/mapping_helpers/apc/no_charge,
+/obj/effect/mapping_helpers/apc/away_general_access,
 /turf/open/floor/plating/airless,
 /area/ruin/space/has_grav/tornvault)
 "u" = (
