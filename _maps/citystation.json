@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"map_name": "CityStation",
+	"map_path": "map_files/CityStation",
+	"map_file": "citystation.dmm",
+	"give_players_hooks": 1,
+	"shuttles": {
+		"cargo": "cargo_nova",
+		"ferry": "ferry_fancy",
+		"whiteship": "whiteship_box",
+		"emergency": "emergency_box"
+	},
+	"traits": [
+		{
+			"Baseturf": "/turf/open/misc/asteroid/airless",
+			"Linkage": "Cross"
+		},
+		{
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		},
+		{
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		},
+		{
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		}
+	],
+	"job_changes": {
+		"Captain": {
+			"special_charter": "city"
+		}
+	}
+}
